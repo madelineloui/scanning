@@ -1,0 +1,9 @@
+,Room,Center/close to wall (within 5 ft),Technique,Filename,Sq Ft,Scanning Time (s),Rendering Time (s),Raw Data File Size (MB),File Size (MB) without raw data,Visual Quality (Score 1-5),Vertex count,Triangle count,Mesh area
+0,Closet,Center,Lidar (speed),closet_center_lidar_SPEED.glb,,91,19,120.8,4.4,,39993,52885,49.93935354888803
+1,Closet,Center,Lidar (area),closet_center_lidar_AREA.glb,,91,39,120.8,14.5,,132666,179096,50.67709253838293
+2,Closet,Close to wall,Lidar (speed),closet_close_to_wall_lidar_SPEED.glb,,620,70,732.3,4.9,,36817,42949,69.65317226512519
+3,Closet,Close to wall,Lidar (area),closet_close_to_wall_lidar_AREA.glb,,620,158,732.3,15.7,,169823,209804,73.25116312608233
+4,Conference,Center,Lidar (speed),conference_room_center_lidar_SPEED.glb,,106,21,140.5,3.8,,28748,41742,127.50893441782279
+5,Conference,Center,Lidar (area),conference_room_center_lidar_AREA.glb,,106,90,140.5,17.5,,219374,336436,123.92613292036292
+6,Conference,Close to wall,Lidar (speed),conference_room_close_to_wall_lidar_SPEED.glb,,606,64,640.3,3.5,,14225,15958,194.5974566090037
+7,Conference,Close to wall,Lidar (area),conference_room_close_to_wall_lidar_AREA.glb,,606,133,640.3,17.3,,224610,285370,214.48468652310314
