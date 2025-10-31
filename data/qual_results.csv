@@ -1,0 +1,33 @@
+Person,Scan,Room,Position,Technique,Filename,Texture Clarity,Geometric Fidelity,Completeness,Artifact Level,Total Score
+Amy,Closet Centre AREA,Closet,Center,Lidar (area),closet_center_lidar_AREA.glb,3,3,3,2,11
+Amy,Closet Centre SPEED,Closet,Center,Lidar (speed),closet_center_lidar_SPEED.glb,2,2,3,2,9
+Amy,Closed Close to Wall AREA,Closet,Close to wall,Lidar (area),closet_close_to_wall_lidar_AREA.glb,2,2,2,4,10
+Amy,Closet Close to Wall SPEED,Closet,Close to wall,Lidar (speed),closet_close_to_wall_lidar_SPEED.glb,2,2,2,4,10
+Amy,Conference Room Centre AREA,Conference,Center,Lidar (area),conference_room_center_lidar_AREA.glb,1,2,2,1,6
+Amy,Conference Room Centre SPEED,Conference,Center,Lidar (speed),conference_room_center_lidar_SPEED.glb,3,2,1,3,9
+Amy,Conference Room Close to Wall AREA,Conference,Close to wall,Lidar (area),conference_room_close_to_wall_lidar_AREA.glb,2,2,3,2,9
+Amy,Conference Room Close to Wall SPEED,Conference,Close to wall,Lidar (speed),conference_room_close_to_wall_lidar_SPEED.glb,2,1,3,2,8
+Arjun,Closet Centre AREA,Closet,Center,Lidar (area),closet_center_lidar_AREA.glb,3,2,1,3,9
+Arjun,Closet Centre SPEED,Closet,Center,Lidar (speed),closet_center_lidar_SPEED.glb,3,1,1,3,8
+Arjun,Closed Close to Wall AREA,Closet,Close to wall,Lidar (area),closet_close_to_wall_lidar_AREA.glb,4,3,3,3,13
+Arjun,Closet Close to Wall SPEED,Closet,Close to wall,Lidar (speed),closet_close_to_wall_lidar_SPEED.glb,3,2,2,2,9
+Arjun,Conference Room Centre AREA,Conference,Center,Lidar (area),conference_room_center_lidar_AREA.glb,2,1,1,2,6
+Arjun,Conference Room Centre SPEED,Conference,Center,Lidar (speed),conference_room_center_lidar_SPEED.glb,2,2,1,2,7
+Arjun,Conference Room Close to Wall AREA,Conference,Close to wall,Lidar (area),conference_room_close_to_wall_lidar_AREA.glb,2,2,3,3,10
+Arjun,Conference Room Close to Wall SPEED,Conference,Close to wall,Lidar (speed),conference_room_close_to_wall_lidar_SPEED.glb,1,1,3,2,7
+Madi,Closet Centre AREA,Closet,Center,Lidar (area),closet_center_lidar_AREA.glb,3,2,2,2,9
+Madi,Closet Centre SPEED,Closet,Center,Lidar (speed),closet_center_lidar_SPEED.glb,2,1,2,2,7
+Madi,Closed Close to Wall AREA,Closet,Close to wall,Lidar (area),closet_close_to_wall_lidar_AREA.glb,2,2,3,3,10
+Madi,Closet Close to Wall SPEED,Closet,Close to wall,Lidar (speed),closet_close_to_wall_lidar_SPEED.glb,1,3,3,3,10
+Madi,Conference Room Centre AREA,Conference,Center,Lidar (area),conference_room_center_lidar_AREA.glb,2,1,2,1,6
+Madi,Conference Room Centre SPEED,Conference,Center,Lidar (speed),conference_room_center_lidar_SPEED.glb,1,1,2,1,5
+Madi,Conference Room Close to Wall AREA,Conference,Close to wall,Lidar (area),conference_room_close_to_wall_lidar_AREA.glb,2,2,3,1,8
+Madi,Conference Room Close to Wall SPEED,Conference,Close to wall,Lidar (speed),conference_room_close_to_wall_lidar_SPEED.glb,1,1,3,2,7
+Spurty,Closet Centre AREA,Closet,Center,Lidar (area),closet_center_lidar_AREA.glb,3,3,2,3,11
+Spurty,Closet Centre SPEED,Closet,Center,Lidar (speed),closet_center_lidar_SPEED.glb,2,1,1,2,6
+Spurty,Closed Close to Wall AREA,Closet,Close to wall,Lidar (area),closet_close_to_wall_lidar_AREA.glb,3,3,3,4,13
+Spurty,Closet Close to Wall SPEED,Closet,Close to wall,Lidar (speed),closet_close_to_wall_lidar_SPEED.glb,3,2,3,3,11
+Spurty,Conference Room Centre AREA,Conference,Center,Lidar (area),conference_room_center_lidar_AREA.glb,1,1,1,1,4
+Spurty,Conference Room Centre SPEED,Conference,Center,Lidar (speed),conference_room_center_lidar_SPEED.glb,2,1,1,2,6
+Spurty,Conference Room Close to Wall AREA,Conference,Close to wall,Lidar (area),conference_room_close_to_wall_lidar_AREA.glb,1,1,1,1,4
+Spurty,Conference Room Close to Wall SPEED,Conference,Close to wall,Lidar (speed),conference_room_close_to_wall_lidar_SPEED.glb,2,1,1,1,5
